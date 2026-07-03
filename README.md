@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/preetam9091/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/preetam9091/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
