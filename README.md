@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/preetam9091/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/preetam9091/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/preetam9091/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
