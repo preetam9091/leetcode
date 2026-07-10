@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/preetam9091/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/preetam9091/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetam9091/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/preetam9091/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/preetam9091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/preetam9091/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
