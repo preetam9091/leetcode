@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0068-text-justification](https://github.com/preetam9091/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/preetam9091/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/preetam9091/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetam9091/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/preetam9091/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/preetam9091/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/preetam9091/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/preetam9091/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0853-car-fleet](https://github.com/preetam9091/leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/preetam9091/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/preetam9091/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String
