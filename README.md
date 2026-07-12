@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/preetam9091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/preetam9091/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/preetam9091/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/preetam9091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/preetam9091/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/preetam9091/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
