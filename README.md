@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/preetam9091/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/preetam9091/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/preetam9091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/preetam9091/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/preetam9091/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
