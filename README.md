@@ -232,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/preetam9091/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/preetam9091/leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
