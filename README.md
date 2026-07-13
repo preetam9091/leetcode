@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/preetam9091/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/preetam9091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preetam9091/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/preetam9091/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/preetam9091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/preetam9091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -236,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/preetam9091/leetcode/tree/main/1291-sequential-digits/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/preetam9091/leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
