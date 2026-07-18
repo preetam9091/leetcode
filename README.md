@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/preetam9091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/preetam9091/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/preetam9091/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/preetam9091/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0400-nth-digit](https://github.com/preetam9091/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/preetam9091/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/preetam9091/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/preetam9091/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/preetam9091/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/preetam9091/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
