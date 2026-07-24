@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetam9091/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/preetam9091/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetam9091/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetam9091/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/preetam9091/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/preetam9091/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/preetam9091/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetam9091/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/preetam9091/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/preetam9091/leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/preetam9091/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
