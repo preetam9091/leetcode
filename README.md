@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/preetam9091/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/preetam9091/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/preetam9091/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0400-nth-digit](https://github.com/preetam9091/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/preetam9091/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/preetam9091/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/preetam9091/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/preetam9091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/preetam9091/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/preetam9091/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -309,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/preetam9091/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 <!---LeetCode Topics End-->
