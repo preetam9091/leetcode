@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/preetam9091/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/preetam9091/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/preetam9091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -219,12 +220,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/preetam9091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/preetam9091/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/preetam9091/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/preetam9091/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/preetam9091/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetam9091/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
