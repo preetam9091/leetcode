@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/preetam9091/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/preetam9091/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/preetam9091/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/preetam9091/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetam9091/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Quickselect
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetam9091/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/preetam9091/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/preetam9091/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/preetam9091/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetam9091/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/preetam9091/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/preetam9091/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/preetam9091/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -320,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/preetam9091/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/preetam9091/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
