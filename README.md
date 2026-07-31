@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/preetam9091/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/preetam9091/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0391-perfect-rectangle](https://github.com/preetam9091/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0393-utf-8-validation](https://github.com/preetam9091/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/preetam9091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0393-utf-8-validation](https://github.com/preetam9091/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/preetam9091/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
