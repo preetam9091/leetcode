@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/preetam9091/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/preetam9091/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0392-is-subsequence](https://github.com/preetam9091/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetam9091/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/preetam9091/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0392-is-subsequence](https://github.com/preetam9091/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetam9091/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/preetam9091/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/preetam9091/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0375-guess-number-higher-or-lower-ii](https://github.com/preetam9091/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/preetam9091/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/preetam9091/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0392-is-subsequence](https://github.com/preetam9091/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/preetam9091/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
