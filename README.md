@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/preetam9091/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/preetam9091/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/preetam9091/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/preetam9091/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/preetam9091/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/preetam9091/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/preetam9091/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/preetam9091/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -370,5 +372,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/preetam9091/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/preetam9091/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
