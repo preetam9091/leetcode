@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/preetam9091/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/preetam9091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/preetam9091/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/preetam9091/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0065-valid-number](https://github.com/preetam9091/leetcode/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/preetam9091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/preetam9091/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/preetam9091/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/preetam9091/leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/preetam9091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0393-utf-8-validation](https://github.com/preetam9091/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/preetam9091/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/preetam9091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/preetam9091/leetcode/tree/main/0068-text-justification/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/preetam9091/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
