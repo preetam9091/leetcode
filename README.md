@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/preetam9091/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/preetam9091/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/preetam9091/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/preetam9091/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0390-elimination-game](https://github.com/preetam9091/leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0391-perfect-rectangle](https://github.com/preetam9091/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/preetam9091/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/preetam9091/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/preetam9091/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0171-excel-sheet-column-number](https://github.com/preetam9091/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0392-is-subsequence](https://github.com/preetam9091/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/preetam9091/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/preetam9091/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
