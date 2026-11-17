@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/preetam9091/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/preetam9091/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/preetam9091/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preetam9091/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -120,12 +121,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/preetam9091/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/preetam9091/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/preetam9091/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/preetam9091/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/preetam9091/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preetam9091/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/preetam9091/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/preetam9091/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/preetam9091/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/preetam9091/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preetam9091/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/preetam9091/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetam9091/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetam9091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/preetam9091/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0394-decode-string](https://github.com/preetam9091/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/preetam9091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/preetam9091/leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -383,4 +388,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/preetam9091/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/preetam9091/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
