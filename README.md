@@ -401,4 +401,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/preetam9091/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
+| [0194-transpose-file](https://github.com/preetam9091/leetcode/tree/main/0194-transpose-file/) | Medium |
 <!---LeetCode Topics End-->
