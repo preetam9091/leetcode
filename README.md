@@ -397,4 +397,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/preetam9091/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/preetam9091/leetcode/tree/main/0176-second-highest-salary/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/preetam9091/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
