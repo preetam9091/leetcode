@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preetam9091/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/preetam9091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/preetam9091/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/preetam9091/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/preetam9091/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/preetam9091/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0684-redundant-connection](https://github.com/preetam9091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/preetam9091/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/preetam9091/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/preetam9091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/preetam9091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0684-redundant-connection](https://github.com/preetam9091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/preetam9091/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/preetam9091/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/preetam9091/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/preetam9091/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/preetam9091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/preetam9091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/preetam9091/leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/preetam9091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/preetam9091/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Linked List
